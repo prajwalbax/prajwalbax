@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajwalbax
-- 👀 I’m interested in Machie Learning, Artificial Intelligence, Data Science, Data Engineering.
+- 👀 I’m interested in Machie Learning, Artificial Intelligence, Deep Learning, Data Science, Data Engineering.
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail-prajwalbax@gmail.com
