@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @prajwalbax
-- 👀 I’m interested in Machie Learning, Artificial Intelligence, Deep Learning, Data Science.
-- 🌱 I’m currently learning MLOps
-- Experienced in solving real world problems in the field of Agriculture and Finance
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail-prajwalbax@gmail.com
-- 😄 Pronouns: Praj
-- ⚡ Fun fact: ...
+👋 Hi, I’m Prajwal Bax
+🌟 Aspiring AI Engineer passionate about leveraging technology to solve real-world problems.
 
-<!---
-prajwalbax/prajwalbax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me:
+
+👀 Interested in Machine Learning, Artificial Intelligence, Deep Learning, and Data Science.
+🌱 Currently learning MLOps to enhance my skills in deploying and scaling machine learning models.
+💼 Experienced in solving challenges in Agriculture and Finance through innovative AI-driven solutions.
+Collaboration Opportunities:
+
+💞️ Open to collaborating on impactful projects in AI, Data Science, or MLOps.
+Contact Me:
+
+📫 Email: prajwalbax@gmail.com
+Fun Fact:
+
+⚡ I believe that every problem hides a solution waiting to be discovered—let's uncover it together!
